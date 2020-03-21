@@ -1,0 +1,11 @@
+D:\pamela\pamela\bin\Debug\netcoreapp2.1\pamela.deps.json
+D:\pamela\pamela\bin\Debug\netcoreapp2.1\pamela.runtimeconfig.json
+D:\pamela\pamela\bin\Debug\netcoreapp2.1\pamela.runtimeconfig.dev.json
+D:\pamela\pamela\bin\Debug\netcoreapp2.1\pamela.dll
+D:\pamela\pamela\bin\Debug\netcoreapp2.1\pamela.pdb
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.csprojAssemblyReference.cache
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.csproj.CoreCompileInputs.cache
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.AssemblyInfoInputs.cache
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.AssemblyInfo.cs
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.dll
+D:\pamela\pamela\obj\Debug\netcoreapp2.1\pamela.pdb

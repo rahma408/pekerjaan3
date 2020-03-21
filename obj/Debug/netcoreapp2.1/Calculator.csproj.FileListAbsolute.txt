@@ -1,0 +1,22 @@
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+D:\DOCUMENT\Tugas Matkul\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
+D:\DOCUMENT\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.deps.json
+D:\DOCUMENT\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.json
+D:\DOCUMENT\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.runtimeconfig.dev.json
+D:\DOCUMENT\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.dll
+D:\DOCUMENT\Latihan2\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.pdb
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csprojAssemblyReference.cache
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.csproj.CoreCompileInputs.cache
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfoInputs.cache
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.AssemblyInfo.cs
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.dll
+D:\DOCUMENT\Latihan2\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.pdb
